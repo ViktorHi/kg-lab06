@@ -17,15 +17,15 @@ Implementation of three-dimensional transformations.
 #### A task:
 Complement the application / web application by implementing three-dimensional transformations of a given object (scaling, translation, rotation around an arbitrary axis).
 
-![](https://github.com/ViktorHi/kg-lab06/blob/master/img.png)
-![](https://github.com/ViktorHi/kg-lab06/blob/master/sca.png)
-![](https://github.com/ViktorHi/kg-lab06/blob/master/tra.png)
+![](https://github.com/ViktorHi/kg-lab06/blob/master/img/rot.png)
+![](https://github.com/ViktorHi/kg-lab06/blob/master/img/sca.png)
+![](https://github.com/ViktorHi/kg-lab06/blob/master/img/tra.png)
 
 ## Lab 6c.
 Construction of the simplest projections.
 #### Task: Supplement the application / web application by implementing the construction of three orthographic projections of a given object (on the coordinate planes Oxy, Oxz, Oyz).
-![](https://github.com/ViktorHi/kg-lab06/blob/master/tra.png)
-![](https://github.com/ViktorHi/kg-lab06/blob/master/tra.png)
+![](https://github.com/ViktorHi/kg-lab06/blob/master/img/hor.png)
+![](https://github.com/ViktorHi/kg-lab06/blob/master/img/ver.png)
 
 Requirements and evaluation criteria:
 * To define a three-dimensional object, use an array with the coordinates of the vertices.
